@@ -1,2 +1,2 @@
 # Google-Clone
-Proyecto Platzi Google Clone
+Making a clone of Google mainpage
